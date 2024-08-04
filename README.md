@@ -57,7 +57,7 @@ WebQueryAI is a cutting-edge Streamlit-based application that leverages the powe
 4. Run the Streamlit app:
 
     ```sh
-    streamlit run app.py
+    streamlit run webpage_qna.py
     ```
 
 ## Usage

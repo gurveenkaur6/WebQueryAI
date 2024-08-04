@@ -1,4 +1,4 @@
-# WebQueryAI
+# WebQueryAI 🕸️📑
 
 WebQueryAI is a cutting-edge Streamlit-based application that leverages the power of LangChain and OpenAI's GPT-3.5-turbo to provide insightful answers to user queries based on the content of any loaded website. By integrating advanced text processing, vector embeddings, and retrieval-augmented generation (RAG) techniques, WebQueryAI offers an intelligent and efficient way to interact with web content.
 

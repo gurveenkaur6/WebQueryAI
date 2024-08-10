@@ -9,7 +9,7 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings  # OpenAI models for g
 from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_core.output_parsers import StrOutputParser
 
-cohere_client = cohere.Client('7r8gktg66M4VjAFeBaKqLhU8A6yUWuh7Xn3IAFdI')
+cohere_client = cohere.Client('***')
 
 # Loading the Documents/webpage
 def load_it(url):
